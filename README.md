@@ -25,7 +25,7 @@ One of the simplest way to do it is to take the current computer time with __tim
 
 ## How to get the current seed used by the Randomizer :
 
-To get the current seed used by the Randomizer call the __get_seed()__ method, it will return the current seed.
+To get the current seed used by the Randomizer call the __.get_seed()__ method, it will return the current seed.
 
 ![How to get the current seed used image](./pictures/get_seed.png?raw=true "Get the current seed")
 

@@ -7,6 +7,8 @@ Full python implementation of the Mersenne Twister PRNG version 32bits (MT19937)
 ## How to set the set the seed to use :
 ![How to set the seed to use](./pictures/set_seed.png?raw=true "Set the seed to use")
 
+## How to randomize the values generated :
+
 ## How to get the current seed used by the Randomizer :
 ![How to get the current seed used image](./pictures/get_seed.png?raw=true "Get the current seed")
 

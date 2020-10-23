@@ -1,8 +1,9 @@
 # Randomizer :
-### Full python implementation of the Mersenne Twister PRNG version 32bits (MT19937).
 
-### This randomizer has the particularity to wait for a seed before starting generating random values.
-### It's current seed can also be retrieved by the __get_seed()__ method to store it for reproductions.
+Full python implementation of the Mersenne Twister PRNG version 32bits (MT19937).
+
+This randomizer has the particularity to wait for a seed before starting generating random values.
+It's current seed can also be retrieved by the __get_seed()__ method to store it for reproductions.
 
 ## How to import the Randomizer :
 

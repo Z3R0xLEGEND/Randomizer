@@ -7,22 +7,26 @@ It's current seed can also be retrieved by the __get_seed()__ method to store it
 ## How to import the Randomizer :
 
 Multiple instance of the Randomizer can be created to generate values from different seeds at the same time
+
 ![How to import the randomizer image](./pictures/how-to-import-it.png?raw=true "Importation of the Randomizer")
 
 ## How to set the set the seed to use :
 
 You always need to set the seed to use before generating random values to do it just call __.set_seed(your_seed)__.
+
 ![How to set the seed to use image](./pictures/set_seed.png?raw=true "Set the seed to use")
 
 ## How to randomize the values generated :
 
 To randomize the values generated a simple solution is to get a value changing everytime the code is run.
-One of the simplest way to do it is to take the current computer time with __time.time()__ and convert it to an int
+One of the simplest way to do it is to take the current computer time with __time.time()__ and convert it to an int.
+
 ![How to randomize the values image](./pictures/how-to-randomize-it.png?raw=true "Get the current time")
 
 ## How to get the current seed used by the Randomizer :
 
 To get the current seed used by the Randomizer call the __get_seed()__ method, it will return the current seed.
+
 ![How to get the current seed used image](./pictures/get_seed.png?raw=true "Get the current seed")
 
 ## Available method(s) :

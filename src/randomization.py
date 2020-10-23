@@ -207,9 +207,9 @@ class Randomizer :
 
         shuffled = list(element) #Create a list if the element is not a list
 
-        for i in range(10*len(X)): #Do 10*len(list) iterations to be sure to shuffle all elements
-            a = self.randint(0, len(X)) #Get a random int
-            b = self.randint(0, len(X)) #Get a random int
+        for i in range(10*len(element)): #Do 10*len(list) iterations to be sure to shuffle all elements
+            a = self.randint(0, len(element)) #Get a random int
+            b = self.randint(0, len(element)) #Get a random int
             shuffled[a], shuffled[b] = shuffled[b], shuffled[a] #Shuffle the two elements between them
 
         return shuffled #Return the shuffled list

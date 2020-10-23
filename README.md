@@ -32,19 +32,19 @@ To get the current seed used by the Randomizer call the __get_seed()__ method, i
 ## Available method(s) :
 
 The available methods for the Randomizer are :
-   - set_seed(number): set the seed for the random generation
-   - get_seed(): to get the current seed used by the Randomizer
-   - random(): return a uniform random between 0 and 1
-   - randint(a, b): return a random integer between a and b
-   - shuffle(element): shuffle a list or a str and return the shuffled items
-   - sample(element, number_of_items = 1): pick a given number of items from the element and return them
-   - boolean(probability = 0.5): return a boolean with probability the probability to return True
+   - __set_seed(number)__: set the seed for the random generation
+   - __get_seed()__: to get the current seed used by the Randomizer
+   - __random()__: return a uniform random between 0 and 1
+   - __randint(a, b)__: return a random integer between a and b
+   - __shuffle(element)__: shuffle a list or a str and return the shuffled items
+   - __sample(element, number_of_items = 1)__: pick a given number of items from the element and return them
+   - __boolean(probability = 0.5)__: return a boolean with probability the probability to return True
 
 ![Available method(s) image](./pictures/methods.png?raw=true "Methods available")
 
 ## Available exception(s) :
 
 For the moment only one exception is necessary :
-  - RandomizerNoSeedError : this error happens when a method of the randomizer was called before a seed was set
+  - __RandomizerNoSeedError__ : this error happens when a method of the randomizer was called before a seed was set
   
 ![Available exception(s) image](./pictures/exceptions.png?raw=true "Exceptions available")

@@ -6,7 +6,7 @@ It's current seed can also be retrieved by the __get_seed()__ method to store it
 
 ## How to import the Randomizer :
 
-Multiple instance of the Randomizer can be created to generate values from different seeds at the same time
+Multiple instance of the Randomizer can be created to generate values from different seed at the same time
 
 ![How to import the randomizer image](./pictures/how-to-import-it.png?raw=true "Importation of the Randomizer")
 

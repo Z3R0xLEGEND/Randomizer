@@ -21,7 +21,7 @@ You always need to set the seed to use before generating random values to do it 
 To randomize the values generated a simple solution is to get a value changing everytime the code is run.
 One of the simplest way to do it is to take the current computer time with __time.time()__ and convert it to an int.
 
-![How to randomize the values image](./pictures/how-to-randomize-it.png?raw=true "Get the current time")
+![How to randomize the values image](./pictures/how-to-randomize-the-values.png?raw=true "Get the current time")
 
 ## How to get the current seed used by the Randomizer :
 

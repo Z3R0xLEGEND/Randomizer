@@ -2,7 +2,7 @@
 Full python implementation of the Mersenne Twister PRNG version 32bits (MT19937) 
 
 ## How to import the Randomizer :
-![How to import the randomizer image](./pictures/how-to-import.png?raw=true "Importation of the Randomizer")
+![How to import the randomizer image](./pictures/how-to-import-it.png?raw=true "Importation of the Randomizer")
 
 ## How to set the set the seed to use :
 ![How to set the seed to use](./pictures/set_seed.png?raw=true "Set the seed to use")

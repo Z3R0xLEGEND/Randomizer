@@ -11,7 +11,7 @@ Multiple instance of the Randomizer can be created to generate values from diffe
 
 ![How to import the randomizer image](./pictures/how-to-import-it.png?raw=true "Importation of the Randomizer")
 
-## How to set the set the seed to use :
+## How to set the seed to use :
 
 You always need to set the seed to use before generating random values to do it just call __.set_seed(your_seed)__.
 
